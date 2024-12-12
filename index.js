@@ -1,3 +1,4 @@
+const chalk = require('chalk');
 const myUnusedVariable = 42;
 if (
   1 === 1
