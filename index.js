@@ -1,2 +1,4 @@
-const chalk = require('chalk');
-console.log(chalk.blue('It works'));
+let myUnusedVariable = 42;
+if (1 == '1') {
+  console.log('It works');
+}
